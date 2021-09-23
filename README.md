@@ -1,9 +1,9 @@
 # MavlinkArdupilot-LTE
 计划是实现一个4G电台  
   
-平台：STM32  
+平台：STM32F407ZG  
 系统：TencentOS  
-模块：移远EC600 CAT1模块  
+模块：移远EC200 CAT1模块  
 服务器：腾讯云  
   
   
